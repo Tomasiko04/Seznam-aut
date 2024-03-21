@@ -38,6 +38,7 @@ oddelovac = "=" * 62
 opakovani=True
 prvky="ano"
 
+
 while True:
     menu=input("Co potřebuješ (info/přidat/odebrat/unončit program): ")
     if "info" in menu:
