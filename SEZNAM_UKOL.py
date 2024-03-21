@@ -1,4 +1,4 @@
-asdaS
+
 seznam_car={"audi":{"palivo":"benzin",
                     "původ":"Německo",
                     "rok":"2010", 
